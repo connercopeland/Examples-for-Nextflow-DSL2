@@ -1,0 +1,7 @@
+integrase_path: "${projectDir}/seq/integrase.fasta"
+genome_paths: "${projectDir}/seq/bacterial_genomes/*.fna"
+output_dir: "${projectDir}/hmmer_results/"
+seq_type: dna
+run_searches: true
+
+
