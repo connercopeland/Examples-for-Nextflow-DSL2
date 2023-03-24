@@ -11,6 +11,8 @@ Note: These workflows were written on Ubuntu 2020 LTS. The first script (calcula
 
 [Nextflow Documentation here](https://www.nextflow.io/docs/latest/getstarted.html#)
 
+Thanks to [StaPH-B](https://staphb.org/) for their HMMER container
+
 Integrase sequence sourced from [NCBI](https://www.ncbi.nlm.nih.gov/protein/NP_251832.1)
 
 Pseudomonas genomes sourced from [pseudomonas.com](https://pseudomonas.com/)
